@@ -1,6 +1,6 @@
 # Epilog: Das offene Tor
 
-[⬅️ Zurück zu Kapitel 11](12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
+[⬅️ Zurück zu Kapitel 13](14_kapitel_13_der_machbarkeits_beweis.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zum Quellenverzeichnis](16_quellen_und_literaturverzeichnis.md)
 
 ---
 
@@ -29,4 +29,4 @@ Das Tor steht offen. Es liegt an uns, hindurchzugehen.
 
 ---
 
-[⬅️ Zurück](13_kapitel_12_eine_welt_jenseits_der_erpressbarkeit.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Zum Quellen- und Studienverzeichnis](15_quellen_und_literaturverzeichnis.md)
+[⬅️ Zurück zu Kapitel 13](14_kapitel_13_der_machbarkeits_beweis.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Zum Quellen- und Studienverzeichnis](16_quellen_und_literaturverzeichnis.md)

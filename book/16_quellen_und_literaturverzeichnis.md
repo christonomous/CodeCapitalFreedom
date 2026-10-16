@@ -1,7 +1,7 @@
 # Quellen- und Studienverzeichnis
 ### *Wissenschaftliche Nachweise, Datensätze und Originalliteratur*
 
-[⬅️ Zurück zum Epilog](13_epilog_das_offene_tor.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
+[⬅️ Zurück zum Epilog](15_epilog_das_offene_tor.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
 
 ---
 

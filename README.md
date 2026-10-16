@@ -27,8 +27,9 @@ Klicken Sie auf ein Kapitel, um direkt mit dem Lesen zu beginnen:
 | **10** | [**Kapitel 10: Die unsichtbare Infrastruktur**](book/11_kapitel_10_die_unsichtbare_infrastruktur.md) | Wie das TCP/IP-Protokoll: Niemand muss Charts studieren – das System arbeitet lautlos im Hintergrund. |
 | **11** | [**Kapitel 11: Das Gesetz der abnehmenden Marge**](book/12_kapitel_11_das_gesetz_der_abnehmenden_marge.md) | Der mathematische Friedensvertrag: Warum der Markt nicht kollabiert, sondern zum stabilen Schweizer Uhrwerk wird. |
 | **12** | [**Kapitel 12: Eine Welt jenseits der Erpressbarkeit**](book/13_kapitel_12_eine_welt_jenseits_der_erpressbarkeit.md) | Das Erwachen der schöpferischen Gesellschaft: Wenn Menschen aus freier Begeisterung statt aus Zwang innovieren. |
-| 🚪 | [**Epilog: Das offene Tor**](book/14_epilog_das_offene_tor.md) | Der Schlusspunkt: Die Werkzeuge liegen bereit – es liegt an uns. |
-| 📑 | [**Quellen- und Studienverzeichnis**](book/15_quellen_und_literaturverzeichnis.md) | Sämtliche wissenschaftliche Nachweise, DOIs, BIZ-Berichte und Originalliteratur mit Online-Zugang. |
+| **13** | [**Kapitel 13: Der Machbarkeits-Beweis**](book/14_kapitel_13_der_machbarkeits_beweis.md) | Was jetzt zu tun ist und warum wir sofort starten können: Der 3-Stufen-Aktionsplan zur Freiheit. |
+| 🚪 | [**Epilog: Das offene Tor**](book/15_epilog_das_offene_tor.md) | Der Schlusspunkt: Die Werkzeuge liegen bereit – es liegt an uns. |
+| 📑 | [**Quellen- und Studienverzeichnis**](book/16_quellen_und_literaturverzeichnis.md) | Sämtliche wissenschaftliche Nachweise, DOIs, BIZ-Berichte und Originalliteratur mit Online-Zugang. |
 
 ---
 

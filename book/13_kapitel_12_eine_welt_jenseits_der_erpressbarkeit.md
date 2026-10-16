@@ -52,4 +52,4 @@ Der Mensch wird endlich von einem Getriebenen des Kapitals zu seinem eigentliche
 
 ---
 
-[⬅️ Zurück](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Epilog: Das offene Tor](14_epilog_das_offene_tor.md)
+[⬅️ Zurück](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Kapitel 13: Der Machbarkeits-Beweis](14_kapitel_13_der_machbarkeits_beweis.md)

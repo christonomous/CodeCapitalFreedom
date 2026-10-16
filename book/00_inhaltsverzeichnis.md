@@ -30,8 +30,9 @@
 ### Teil IV: Das Gemeinwohl – Die Zukunft der Menschheit
 * [Kapitel 11: Das Gesetz der abnehmenden Marge – Der mathematische Friedensvertrag](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md)
 * [Kapitel 12: Eine Welt jenseits der Erpressbarkeit – Das Erwachen der schöpferischen Gesellschaft](13_kapitel_12_eine_welt_jenseits_der_erpressbarkeit.md)
-* [Epilog: Das offene Tor](14_epilog_das_offene_tor.md)
-* [Quellen- und Studienverzeichnis](15_quellen_und_literaturverzeichnis.md)
+* [Kapitel 13: Der Machbarkeits-Beweis – Was jetzt zu tun ist und warum wir sofort starten können](14_kapitel_13_der_machbarkeits_beweis.md)
+* [Epilog: Das offene Tor](15_epilog_das_offene_tor.md)
+* [Quellen- und Studienverzeichnis](16_quellen_und_literaturverzeichnis.md)
 
 ---
 
