@@ -88,4 +88,25 @@ Das gesamte Buch ist als offenes, transparentes E-Book strukturiert. Du kannst j
 
 ---
 
+## 🤝 Ein offenes Buch braucht offene Kritik: Contribution erwünscht!
+
+Es wird mit Sicherheit Menschen geben, die Zweifel haben, Fehler finden oder Teile dieses Buches für Utopie oder gar Schwachsinn halten. 
+
+**Und genau das ist gut so.**
+
+Dieses Buch ist kein unantastbares Dogma und keine Bibel. Es ist ein offenes, lebendiges Open-Source-Projekt für das Gemeinwohl. Wenn du glaubst, dass eine Argumentation hakt, eine mathematische Rechnung fehlerhaft ist, eine Quelle fehlt oder du handfeste Gegenargumente hast:
+
+> **JEGLICHER BEITRAG, JEDE KRITIK UND JEDES FEEDBACK IST HERZLICH WILLKOMMEN.**
+
+Wer nur im Stillen den Kopf schüttelt oder zynisch in sich hineinmurmelt, trägt aktiv dazu bei, dass sich nichts ändert. Wir verändern die Welt nicht durch bequemen Zynismus, sondern durch harten, ehrlichen und sachlichen Diskurs auf Augenhöhe.
+
+### Wie du beitragen kannst:
+* **Gegenargumente & Diskussion:** Öffne ein [GitHub Issue](https://github.com/christonomous/CodeCapitalFreedom/issues) und diskutiere deine Perspektive offen mit uns.
+* **Korrekturen, Ergänzungen & Fakten:** Erstelle direkt einen [Pull Request](https://github.com/christonomous/CodeCapitalFreedom/pulls), wenn du Tippfehler findest, Formulierungen schärfen oder neue wissenschaftliche Studien einbringen willst.
+* **Übersetzungen & Code:** Hilf mit, dieses Werk in andere Sprachen zu übersetzen oder an den Algorithmen der Befreiung mitzucoden.
+
+Lasst uns gemeinsam an der Lösung arbeiten – für uns, für unsere Kinder und für deren Kinder.
+
+---
+
 > *„Die Werkzeuge liegen bereit. Der Code ist schreibbar. Es ist Zeit, das mächtigste System der Welt in den Dienst des Menschen zu stellen.“*
