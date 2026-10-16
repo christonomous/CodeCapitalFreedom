@@ -36,6 +36,23 @@ Was tut jedoch der ungeschützte menschliche Nutzer, sobald er die Einstellungen
 Er dreht am Regler. Und was passiert?  
 Bei der nächsten ganz normalen Marktbewegung von 5 % in die Gegenrichtung führt der Hebel zu einem **Margin Call**: Das gesamte Ersparte ist mit einem Schlag vernichtet. Das System wird verflucht, obwohl nicht die Mathematik versagt hat – sondern die menschliche Gier.
 
+### Der mathematische Beweis: Die asymmetrische Verlust-Falle
+Der Grund, warum Hebelwirkung und mangelnde Verlustbegrenzung mathematisch tödlich sind, liegt in der brutalen Asymmetrie von Verlusten:
+
+| Verlust auf dem Konto | Notwendiger Gewinn, um wieder auf Null zu sein |
+| :---: | :---: |
+| **- 10 %** | **+ 11,1 %** |
+| **- 20 %** | **+ 25,0 %** |
+| **- 50 %** | **+ 100,0 %** |
+| **- 75 %** | **+ 300,0 %** |
+| **- 90 %** | **+ 900,0 %** |
+
+Wer 50 % seines Kapitals verliert, muss sein Restkapital **verdoppeln (+100 %)**, nur um seinen Ausgangszustand wiederzuerlangen!  
+Mit einem 10-fachen Hebel ($10\times$) reicht ein winziger Markteinbruch von nur **$-10\%$**, um einen rechnerischen Verlust von $-100\%$ zu erzeugen. Das Konto ist auf einen Schlag bei **0,00 Euro**. Ein Comeback ist mathematisch unmöglich.
+
+Deshalb ist die goldene Regel professioneller Quants nicht: *„Wie mache ich den maximalen Gewinn?“*  
+Sondern: **„Wie verhindere ich unter allen Umständen den Ruin?“** (*Risk of Ruin*).
+
 ---
 
 ## 3. Die Rettung: Unveränderliche Leitplanken (*Hardcoded Guardrails*)

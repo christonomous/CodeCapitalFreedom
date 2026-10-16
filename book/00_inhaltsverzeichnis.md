@@ -30,6 +30,7 @@
 * [Kapitel 10: Das Gesetz der abnehmenden Marge – Der mathematische Friedensvertrag](11_kapitel_10_das_gesetz_der_abnehmenden_marge.md)
 * [Kapitel 11: Eine Welt jenseits der Erpressbarkeit – Das Erwachen der schöpferischen Gesellschaft](12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md)
 * [Epilog: Das offene Tor](13_epilog_das_offene_tor.md)
+* [Quellen- und Studienverzeichnis](14_quellen_und_literaturverzeichnis.md)
 
 ---
 

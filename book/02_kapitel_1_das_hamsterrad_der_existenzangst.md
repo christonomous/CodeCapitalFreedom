@@ -16,6 +16,13 @@ Permanente Existenzangst erzeugt im menschlichen Gehirn einen permanenten kognit
 
 Das Gehirn schaltet in einen evolutionären Überlebensmodus: Der Präfrontalkortex (zuständig für vorausschauende Planung, Impulskontrolle, Empathie und kreatives Problemlösen) wird gedrosselt. Es zählt nur das Hier und Jetzt: *Wie überlebe ich diesen Monat?*
 
+### Der wissenschaftliche Beweis: Zuckerrohrbauern im kognitiven Test
+Mullainathan und Shafir wiesen dieses Phänomen unter anderem an indischen Zuckerrohrbauern nach, die nur einmal im Jahr nach der Ernte bezahlt werden. Dieselben Menschen wurden zweimal identischen Intelligenz- und Konzentrationstests unterzogen: Einmal **vor der Ernte** (wenn das Geld extrem knapp war und Existenzsorgen herrschten) und einmal **nach der Ernte** (wenn sie liquide und finanziell abgesichert waren). 
+Das verblüffende Ergebnis: Dieselben Personen schnitten nach der Ernte dramatisch besser ab – nicht weil sie klüger geworden waren, sondern weil die existenzielle Belagerung ihres Gehirns aufgehoben war.
+
+> *„Armut ist kein Mangel an Charakter. Armut ist schlicht und einfach ein Mangel an Bargeld.“*  
+> — **Rutger Bregman**, Historiker und Autor von *Utopien für Realisten*
+
 Der Mensch im Hamsterrad ist also nicht faul oder uninspiriert. **Er steht unter kognitiver Belagerung.**
 
 ---

@@ -51,6 +51,16 @@ $$\lim_{n \to \infty} P(\text{Mehrheitsentscheidung ist korrekt}) = 1$$
 Wenn man eine unvollkommene Gruppe von Menschen bittet, das Gewicht eines Ochsen auf einem Jahrmarkt zu schätzen, liegt fast jeder Einzelne daneben. Die Experten verschätzen sich genauso wie die Laien.  
 Nimmt man jedoch den **Mittelwert der Schätzungen von Tausenden Menschen**, trifft dieser Mittelwert das tatsächliche Gewicht des Ochsen fast auf das Gramm genau! Das ist das Prinzip der **Schwarmintelligenz**.
 
+### Das historische Experiment: Francis Galton und der Ochse (1906)
+Der britische Naturforscher Sir Francis Galton besuchte 1906 eine westenglische Viehausstellung. Dort gab es ein Schätzspiel: Gegen eine kleine Gebühr durften 787 Besucher (Metzger, Bauern, aber auch völlig ahnungslose Laien) das Schlachtgewicht eines ausgewählten Ochsen schätzen.
+Galton wertete die Stimmzettel statistisch aus:
+* Kein einziger Teilnehmer erriet das exakte Gewicht.
+* Die Schätzungen schwankten wild zwischen völlig absurden Werten.
+* **Das verblüffende Ergebnis:** Der Median aller Schätzungen betrug exakt **1.207 Pfund**. Als der Ochse geschlachtet und gewogen wurde, betrug sein reales Gewicht **1.198 Pfund**. Der Schwarm lag um weniger als **0,8 %** daneben – präziser als jeder einzelne Rinderexperte vor Ort!
+
+> *„Das Preissystem ist ein Mechanismus zur Übermittlung von Information. Es ist ein Wunder, wie in einem System, in dem viele Menschen nur wenig wissen, die relevanten Fakten von allen gemeinsam genutzt werden können.“*  
+> — **Friedrich August von Hayek**, Nobelpreisträger für Wirtschaftswissenschaften (*The Use of Knowledge in Society*)
+
 ### Die Übertragung auf den Markt
 * Wenn nur **zehn riesige Hedgefonds** den Markt bestimmen, ist die Fehlertoleranz riesig. Sie können sich absprechen oder kollektiv irren.
 * Wenn jedoch **Millionen normale Menschen**, unterstützt durch intelligente, dezentrale Algorithmen, am Markt mitstimmen, bündelt sich das dezentrale Kapital zu einer unüberwindbaren Gegenmacht.

@@ -20,6 +20,15 @@ Ihre Vorteile sind erdrückend:
 
 Fast 90 % aller privaten Kleinanleger verlieren ihr Geld an den Märkten. Sie sind die Beute, von der sich die institutionellen Riesen ernähren.
 
+### Die Fallstudie: Jim Simons und der Medallion Fund
+Der schlagendste Beweis für die Überlegenheit der reinen Mathematik über das menschliche Bauchgefühl ist der Mathematiker **Jim Simons** und seine Firma *Renaissance Technologies*.
+Simons stellte keine Banker ein, sondern Astronomen, Physiker und Kryptographen. Ihr legendärer *Medallion Fund* erzielte zwischen 1988 und 2018:
+* Eine durchschnittliche jährliche Bruttorendite von **66,1 %** (rund 39 % netto nach horrenden Gebühren).
+* Über **100 Milliarden Dollar** kumulierten Trading-Gewinn.
+* Kein einziger Trade basierte auf Nachrichten, Interviews oder Intuition – das System handelte zu 100 % automatisiert über statistische Ineffizienzen.
+
+Simons bewies: **Der Markt ist keine Glaubensfrage, sondern ein System aus erkennbaren statistischen Mustern.** Wer diese Muster versteht und automatisiert, gewinnt. Wer versucht, den Markt mit Emotionen zu schlagen, verliert.
+
 ---
 
 ## 2. Die Demokratisierung der Mathematik

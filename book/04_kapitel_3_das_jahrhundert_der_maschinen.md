@@ -20,6 +20,18 @@ Früher wanderten die Menschen von den Feldern in die Fabriken und von den Fabri
 
 – wohin sollen die Menschen dann noch ausweichen?
 
+### Was die Zahlen sagen: Die Goldman-Sachs-Studie
+Eine vielbeachtete Analyse der Investmentbank **Goldman Sachs** (*The Potentially Large Effects of Artificial Intelligence on Economic Growth*) kommt zu einem dramatischen Befund:
+* Rund **300 Millionen Vollzeit-Arbeitsplätze** in den großen Volkswirtschaften sind der Automatisierung durch generative KI ausgesetzt.
+* In den USA und Europa könnten etwa zwei Drittel aller Berufe zu einem gewissen Grad automatisiert werden, und bis zu ein Viertel der gesamten Arbeit könnte vollständig durch KI ersetzt werden.
+
+Bereits 1930 prophezeite der berühmteste Ökonom des 20. Jahrhunderts, **John Maynard Keynes**, in seinem Essay *Economic Possibilities for our Grandchildren*, dass der technische Fortschritt bis zum Jahr 2030 zu einer **15-Stunden-Arbeitswoche** führen würde – nicht weil wir verhungern, sondern weil die Maschinen alle Grundbedürfnisse decken:
+
+> *„Zum ersten Mal seit seiner Erschaffung wird der Mensch vor seiner wahren, seiner ständigen Aufgabe stehen: wie er seine Freiheit von drückenden wirtschaftlichen Sorgen nutzen soll.“*  
+> — **John Maynard Keynes**
+
+Dass wir heute immer noch 40 Stunden schuften müssen, liegt nicht an fehlender Technik – sondern an der falschen Verteilung der Maschinen-Erträge.
+
 ---
 
 ## 2. Die logische Sackgasse des Spätkapitalismus

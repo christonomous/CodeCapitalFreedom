@@ -27,6 +27,7 @@ Klicken Sie auf ein Kapitel, um direkt mit dem Lesen zu beginnen:
 | **10** | [**Kapitel 10: Das Gesetz der abnehmenden Marge**](book/11_kapitel_10_das_gesetz_der_abnehmenden_marge.md) | Der mathematische Friedensvertrag: Warum der Markt nicht kollabiert, sondern zum stabilen Schweizer Uhrwerk wird. |
 | **11** | [**Kapitel 11: Eine Welt jenseits der Erpressbarkeit**](book/12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md) | Das Erwachen der schöpferischen Gesellschaft: Wenn Menschen aus freier Begeisterung statt aus Zwang innovieren. |
 | 🚪 | [**Epilog: Das offene Tor**](book/13_epilog_das_offene_tor.md) | Der Schlusspunkt: Die Werkzeuge liegen bereit – es liegt an uns. |
+| 📑 | [**Quellen- und Studienverzeichnis**](book/14_quellen_und_literaturverzeichnis.md) | Sämtliche wissenschaftliche Nachweise, DOIs, BIZ-Berichte und Originalliteratur mit Online-Zugang. |
 
 ---
 

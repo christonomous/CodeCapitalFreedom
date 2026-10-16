@@ -18,6 +18,21 @@ Auf der anderen Seite steht der Kapitalismus – die effektivste Maschine zur Ko
 Doch der ungebremste Kapitalismus trägt einen verheerenden systemischen Konstruktionsfehler in sich: **Die Tendenz zur extremen Monopolbildung und Vermögenskonzentration.**  
 In der Ökonomie nennt man dies den *Matthäus-Effekt* („Wer hat, dem wird gegeben“) oder die *Kapitalakkumulation nach Thomas Piketty*: Wenn die Rendite auf Kapital ($r$) langfristig höher ist als das reale Wirtschaftswachstum ($g$), konzentriert sich der Reichtum zwangsläufig bei den obersten wenigen Prozent. Die breite Masse wird in die Lohnabhängigkeit gedrängt.
 
+### Der mathematische Beweis: Die ungleiche Gleichung $r > g$
+Der französische Ökonom Thomas Piketty wies in seiner monumentalen 300-Jahre-Datenanalyse nach:
+
+$$r > g$$
+
+* $r$ (Rendite auf Kapital: Zinsen, Dividenden, Mieteinnahmen, Börsengewinne) liegt historisch im Schnitt stabil bei **4 bis 5 % pro Jahr**.
+* $g$ (Reales Wirtschaftswachstum und damit Reallohnzuwachs normaler Arbeitnehmer) wächst historisch nur mit ca. **1 bis 1,5 % pro Jahr**.
+
+**Was bedeutet das in Euro und Cent für den normalen Menschen?**  
+Wer 100.000 Euro für sich arbeiten lässt, verdoppelt sein Vermögen bei 5 % Rendite durch den Zinseszins in knapp 14 Jahren – **ohne einen Finger zu rühren**.  
+Wer hingegen nur seine eigene Arbeitskraft verkauft, dessen Lohn wird von Inflation, Abgaben und dem langsamen Wirtschaftswachstum aufgefressen. Reines Sparen durch Erwerbsarbeit kann den exponentiellen Zinseszins des Großkapitals mathematisch niemals einholen.
+
+> *„Der Zinseszins ist das achte Weltwunder. Wer ihn versteht, verdient daran; wer ihn nicht versteht, bezahlt ihn.“*  
+> — Zugeschrieben **Albert Einstein**
+
 ---
 
 ## 2. Zwischen allen Stühlen: Die bittere Lektion

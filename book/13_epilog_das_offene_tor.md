@@ -29,4 +29,4 @@ Das Tor steht offen. Es liegt an uns, hindurchzugehen.
 
 ---
 
-[📖 Zurück zum Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
+[⬅️ Zurück zu Kapitel 11](12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Zum Quellen- und Studienverzeichnis](14_quellen_und_literaturverzeichnis.md)

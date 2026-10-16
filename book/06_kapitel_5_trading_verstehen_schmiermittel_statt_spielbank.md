@@ -47,6 +47,18 @@ Der Trader spekuliert darauf, macht vielleicht Gewinn oder Verlust – aber der 
 Wenn eine Rentenkasse Aktien verkaufen muss, um die monatlichen Renten an Millionen Senioren auszuzahlen, oder ein Sparer sein Geld für den Kauf eines Hauses abheben will, braucht er **auf die Sekunde genau einen Käufer**.  
 Gäbe es keine Trader (Market Maker), die jederzeit bereitstehen, Wertpapiere zu kaufen oder zu verkaufen, müsste der Rentner Wochen warten oder riesige Preisabschläge hinnehmen.
 
+### Der quantitative Beweis: Die 7,5-Billionen-Dollar-Maschine
+Wie gigantisch dieses Schmiermittel ist, belegen die offiziellen Zahlen der **Bank für Internationalen Zahlungsausgleich (BIZ / BIS)** in Basel:
+* An den weltweiten Devisenmärkten (*Forex*) werden jeden Tag unglaubliche **7,5 Billionen US-Dollar** umgesetzt.
+* Davon dienen weniger als **3 %** der direkten Bezahlung von Im- und Exporten physischer Waren.
+* Die restlichen **97 %** sind reines Trading, Hedging und Liquiditäts-Bereitstellung!
+
+Kritiker sagen oft: *„Das ist doch 97 % heiße Luft!“*  
+Nein: Es ist der Beweis dafür, dass der weltweite Motor nur deshalb reibungslos läuft, weil eine gigantische Welle von Liquidität Kursschwankungen dämpft und Unternehmen weltweit Währungssicherheit gibt.
+
+> *„Spekulanten tragen nicht zur Destabilisierung bei. Im Gegenteil: Indem sie kaufen, wenn die Preise niedrig sind, und verkaufen, wenn die Preise hoch sind, glätten sie die Spitzen und Täler des Marktes und stabilisieren das Gesamtsystem.“*  
+> — **Milton Friedman**, Nobelpreisträger für Wirtschaftswissenschaften
+
 ---
 
 ## 3. Die Kern-Metapher: Schmiermittel vs. Motor
