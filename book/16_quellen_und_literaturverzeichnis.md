@@ -25,6 +25,8 @@ Dieses Verzeichnis dient der wissenschaftlichen und faktischen Nachvollziehbarke
 * **Historische Datenanalyse zu Kapitalakkumulation ($r > g$):**  
   Piketty, Thomas (2014): *Das Kapital im 21. Jahrhundert*. München: C.H. Beck (Original: *Le Capital au XXIe siècle*, Paris: Éditions du Seuil, 2013).  
   *Offene Datensätze und Grafiken online unter:* [World Inequality Database (WID.world)](https://wid.world).
+* **Konzept der Finanztransaktionssteuer (Mikro-Transaktionsgebühren):**  
+  Tobin, James (1978): *„A Proposal for International Monetary Reform“*. In: **Eastern Economic Journal**, Vol. 4, No. 3/4, S. 153–159 (Begründer der *Tobin-Steuer* auf Finanz- und Devisentransaktionen).
 
 ---
 
