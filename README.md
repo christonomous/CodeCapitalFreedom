@@ -12,6 +12,21 @@
 
 ---
 
+> ### ⚖️ Eine wichtige Klarstellung – bitte lies das zuerst.
+>
+> Dieses Buch verfolgt keine politische Agenda. Es ordnet dich keiner Partei zu, verurteilt keine Gruppe von Menschen und sieht in keiner Ideologie die Lösung.
+>
+> Und nur weil hier Begriffe wie **„Trading"** oder **„Finanzmarkt"** auftauchen, bedeutet das nicht, dass das bestehende System schöngeredet oder das Treiben der Finanzmärkte glorifiziert wird.
+>
+> Was dieses Buch tut: Es versucht, **so objektiv und neutral wie möglich** zu verstehen —
+> - wie Technologie und Märkte tatsächlich funktionieren,
+> - wie der Mensch in finanzieller Not tatsächlich reagiert,
+> - und warum die Lösung für **uns alle** längst vor uns liegt — wenn wir aufhören, durch die Brille einer Ideologie zu schauen.
+>
+> **Kein Lager. Keine Verurteilung. Nur Klarheit.**
+
+---
+
 ## 🕊️ Der Schmerz, der uns alle eint
 
 Wir leben in einer Zeit, die uns einredet, wir seien Feinde. 
