@@ -16,6 +16,11 @@ Permanente Existenzangst erzeugt im menschlichen Gehirn einen permanenten kognit
 
 Das Gehirn schaltet in einen evolutionären Überlebensmodus: Der Präfrontalkortex (zuständig für vorausschauende Planung, Impulskontrolle, Empathie und kreatives Problemlösen) wird gedrosselt. Es zählt nur das Hier und Jetzt: *Wie überlebe ich diesen Monat?*
 
+Genau hier liegt die biologische Ursache für ein Phänomen, das Außenstehende oft hochnäsig verurteilen:  
+Wenn Menschen kaum noch Geld haben, treffen sie scheinbar irrationale, extrem kurzfristige Entscheidungen. Man kauft sich Alkohol, Zigaretten, Fast Food oder die nächste billige, schnelle Befriedigung. Nicht aus Dummheit, sondern aus schierer seelischer Notwehr: **Um wenigstens für einen winzigen Wimpernschlag das Gefühl von Betäubung, Trost oder scheinbarem Glück zu spüren.** 
+
+Das tragische Dilemma: Was als Überlebensreflex gegen den seelischen Schmerz beginnt, brennt sich im Gehirn als Gewohnheitsschleife ein (*Habit Loop*). Und zerstörerische Gewohnheiten werden zu einer zweiten, eisernen Fessel, die die Menschen noch tiefer in der Armutsfalle gefangen hält.
+
 ### Der wissenschaftliche Beweis: Zuckerrohrbauern im kognitiven Test
 Mullainathan und Shafir wiesen dieses Phänomen unter anderem an indischen Zuckerrohrbauern nach, die nur einmal im Jahr nach der Ernte bezahlt werden. Dieselben Menschen wurden zweimal identischen Intelligenz- und Konzentrationstests unterzogen: Einmal **vor der Ernte** (wenn das Geld extrem knapp war und Existenzsorgen herrschten) und einmal **nach der Ernte** (wenn sie liquide und finanziell abgesichert waren). 
 Das verblüffende Ergebnis: Dieselben Personen schnitten nach der Ernte dramatisch besser ab – nicht weil sie klüger geworden waren, sondern weil die existenzielle Belagerung ihres Gehirns aufgehoben war.
