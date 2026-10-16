@@ -1,7 +1,7 @@
 # Kapitel 12: Eine Welt jenseits der Erpressbarkeit
 ### *Das Erwachen der schöpferischen Gesellschaft*
 
-[⬅️ Zurück](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](14_epilog_das_offene_tor.md)
+[⬅️ Zurück](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](14_kapitel_13_der_machbarkeits_beweis.md)
 
 ---
 

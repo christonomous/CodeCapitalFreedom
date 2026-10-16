@@ -88,6 +88,4 @@ Dieses Verzeichnis dient der wissenschaftlichen und faktischen Nachvollziehbarke
   Ross, Stephen A. (1976): *„The Arbitrage Theory of Capital Asset Pricing“*. In: **Journal of Economic Theory**, Vol. 13, Issue 3, S. 341–360.  
   *Standardlehrbuch zur Preiskonvergenz:* Cochrane, John H. (2005): *Asset Pricing: Revised Edition*. Princeton: Princeton University Press.
 
----
-
-[⬅️ Zurück](14_epilog_das_offene_tor.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
+[⬅️ Zurück zum Epilog](15_epilog_das_offene_tor.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)

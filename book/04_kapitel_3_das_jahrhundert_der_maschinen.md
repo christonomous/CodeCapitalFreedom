@@ -1,7 +1,7 @@
 # Kapitel 3: Das Jahrhundert der Maschinen
 ### *Das unausweichliche Ende der Erwerbsarbeit*
 
-[⬅️ Zurück zu Kapitel 2](03_kapitel_2_der_zusammenstoss_zweier_welten.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 4](05_kapitel_4_was_geld_wirklich_ist.md)
+[⬅️ Zurück zu Kapitel 2](03_kapitel_2_der_zusammenstoss_zweier_welten.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 4](05_kapitel_4_das_extremismus_paradoxon.md)
 
 ---
 
