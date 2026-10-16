@@ -1,7 +1,7 @@
-# Kapitel 8: Der größte Feind im Spiegel
+# Kapitel 9: Der größte Feind im Spiegel
 ### *Das Problem der Gier und wie Code den Menschen rettet*
 
-[⬅️ Zurück zu Kapitel 7](08_kapitel_7_waffengleichheit_fuer_jedermann.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 9](10_kapitel_9_die_unsichtbare_infrastruktur.md)
+[⬅️ Zurück](09_kapitel_8_waffengleichheit_fuer_jedermann.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](11_kapitel_10_die_unsichtbare_infrastruktur.md)
 
 ---
 
@@ -99,4 +99,4 @@ Ein funktionierendes Grundeinkommens-System muss **die Menschen vor ihrer eigene
 
 ---
 
-[⬅️ Zurück zu Kapitel 7](08_kapitel_7_waffengleichheit_fuer_jedermann.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 9: Die unsichtbare Infrastruktur](10_kapitel_9_die_unsichtbare_infrastruktur.md)
+[⬅️ Zurück](09_kapitel_8_waffengleichheit_fuer_jedermann.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Die unsichtbare Infrastruktur](11_kapitel_10_die_unsichtbare_infrastruktur.md)

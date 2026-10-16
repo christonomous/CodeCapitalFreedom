@@ -1,7 +1,7 @@
-# Kapitel 5: Trading verstehen – Schmiermittel statt Spielbank
+# Kapitel 6: Trading verstehen – Schmiermittel statt Spielbank
 ### *Warum der Markt keine Zockerei ist, sondern das Nervensystem der Weltwirtschaft*
 
-[⬅️ Zurück zu Kapitel 4](05_kapitel_4_was_geld_wirklich_ist.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 6](07_kapitel_6_die_stimmen_des_kapitals.md)
+[⬅️ Zurück](06_kapitel_5_was_geld_wirklich_ist.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](08_kapitel_7_die_stimmen_des_kapitals.md)
 
 ---
 
@@ -78,4 +78,4 @@ Das Problem ist, dass fast das gesamte "Motoröl" der Welt von einer Handvoll gi
 
 ---
 
-[⬅️ Zurück zu Kapitel 4](05_kapitel_4_was_geld_wirklich_ist.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 6: Die Stimmen des Kapitals](07_kapitel_6_die_stimmen_des_kapitals.md)
+[⬅️ Zurück](06_kapitel_5_was_geld_wirklich_ist.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Die Stimmen des Kapitals](08_kapitel_7_die_stimmen_des_kapitals.md)

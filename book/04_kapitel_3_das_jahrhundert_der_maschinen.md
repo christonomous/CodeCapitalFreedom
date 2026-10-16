@@ -67,4 +67,4 @@ Und genau hier kommt der Finanzmarkt ins Spiel. Um ihn für diese Aufgabe zu nut
 
 ---
 
-[⬅️ Zurück zu Kapitel 2](03_kapitel_2_der_zusammenstoss_zweier_welten.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 4: Was Geld wirklich ist](05_kapitel_4_was_geld_wirklich_ist.md)
+[⬅️ Zurück zu Kapitel 2](03_kapitel_2_der_zusammenstoss_zweier_welten.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 4: Das Extremismus-Paradoxon](05_kapitel_4_das_extremismus_paradoxon.md)

@@ -1,7 +1,7 @@
-# Kapitel 6: Die Stimmen des Kapitals
+# Kapitel 7: Die Stimmen des Kapitals
 ### *Der Markt als Preisfindungs-Demokratie*
 
-[⬅️ Zurück zu Kapitel 5](06_kapitel_5_trading_verstehen_schmiermittel_statt_spielbank.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 7](08_kapitel_7_waffengleichheit_fuer_jedermann.md)
+[⬅️ Zurück](07_kapitel_6_trading_verstehen_schmiermittel_statt_spielbank.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](09_kapitel_8_waffengleichheit_fuer_jedermann.md)
 
 ---
 
@@ -74,4 +74,4 @@ Der Schlüssel dazu liegt nicht darin, dass jeder Mensch Wirtschaftswissenschaft
 
 ---
 
-[⬅️ Zurück zu Kapitel 5](06_kapitel_5_trading_verstehen_schmiermittel_statt_spielbank.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 7: Waffengleichheit für jedermann](08_kapitel_7_waffengleichheit_fuer_jedermann.md)
+[⬅️ Zurück](07_kapitel_6_trading_verstehen_schmiermittel_statt_spielbank.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Waffengleichheit für jedermann](09_kapitel_8_waffengleichheit_fuer_jedermann.md)

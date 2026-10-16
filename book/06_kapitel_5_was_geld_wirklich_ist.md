@@ -1,7 +1,7 @@
-# Kapitel 4: Was Geld wirklich ist
+# Kapitel 5: Was Geld wirklich ist
 ### *Kein Gold, kein Zwang, sondern Information*
 
-[⬅️ Zurück zu Kapitel 3](04_kapitel_3_das_jahrhundert_der_maschinen.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 5](06_kapitel_5_trading_verstehen_schmiermittel_statt_spielbank.md)
+[⬅️ Zurück zu Kapitel 4](05_kapitel_4_das_extremismus_paradoxon.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 6](07_kapitel_6_trading_verstehen_schmiermittel_statt_spielbank.md)
 
 ---
 
@@ -51,4 +51,4 @@ Wenn wir den Code so programmieren, dass er nicht für astronomische Boni einige
 
 ---
 
-[⬅️ Zurück zu Kapitel 3](04_kapitel_3_das_jahrhundert_der_maschinen.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 5: Trading verstehen – Schmiermittel statt Spielbank](06_kapitel_5_trading_verstehen_schmiermittel_statt_spielbank.md)
+[⬅️ Zurück zu Kapitel 4](05_kapitel_4_das_extremismus_paradoxon.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 6: Trading verstehen – Schmiermittel statt Spielbank](07_kapitel_6_trading_verstehen_schmiermittel_statt_spielbank.md)

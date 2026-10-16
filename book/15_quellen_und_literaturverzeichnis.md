@@ -38,7 +38,16 @@ Dieses Verzeichnis dient der wissenschaftlichen und faktischen Nachvollziehbarke
 
 ---
 
-### Kapitel 5: Trading verstehen – Schmiermittel statt Spielbank
+### Kapitel 4: Das Extremismus-Paradoxon
+* **140-Jahre-Langzeitstudie zu Finanzkrisen und politischer Radikalisierung:**  
+  Funke, Manuel; Schularick, Moritz; Trebesch, Christoph (2016): *„Going to Extremes: Politics after Financial Crises, 1870–2014“*. In: **European Economic Review**, Vol. 88, S. 227–260.  
+  *Volltext & Datensätze online unter:* [CEPR Discussion Paper No. DP10884](https://cepr.org/publications/dp10884) bzw. [Kiel Institute for the World Economy (IfW)](https://www.ifw-kiel.de).
+* **Folgestudie zu den realen Folgen populistischer Regierungen:**  
+  Funke, Manuel; Schularick, Moritz; Trebesch, Christoph (2023): *„Populist Leaders and the Economy“*. In: **American Economic Review**, Vol. 113, No. 12, S. 3249–3288. [DOI: 10.1257/aer.20202045](https://doi.org/10.1257/aer.20202045).
+
+---
+
+### Kapitel 6: Trading verstehen – Schmiermittel statt Spielbank
 * **Globaler Devisenmarkt-Umsatz (7,5 Billionen USD täglich / 97 % Liquidität):**  
   Bank for International Settlements (BIS / BIZ, Basel, Oktober/Dezember 2022): *„Triennial Central Bank Survey of Foreign Exchange and Over-the-counter (OTC) Derivatives Markets in 2022“*.  
   *Offizieller Bericht online unter:* [BIS Triennial Survey 2022](https://www.bis.org/publ/rpfx22.htm).
@@ -47,7 +56,7 @@ Dieses Verzeichnis dient der wissenschaftlichen und faktischen Nachvollziehbarke
 
 ---
 
-### Kapitel 6: Die Stimmen des Kapitals
+### Kapitel 7: Die Stimmen des Kapitals
 * **Schwarmintelligenz & Galtons Ochsen-Experiment:**  
   Galton, Francis (1907): *„Vox Populi“*. In: **Nature**, Vol. 75, S. 450–451 (7. März 1907).  
   *Online nachlesbar unter:* [Nature Archive](https://www.nature.com/articles/075450a0).
@@ -58,25 +67,25 @@ Dieses Verzeichnis dient der wissenschaftlichen und faktischen Nachvollziehbarke
 
 ---
 
-### Kapitel 7: Waffengleichheit für jedermann
+### Kapitel 8: Waffengleichheit für jedermann
 * **Performance des Medallion Fund (Jim Simons / Renaissance Technologies):**  
   Zuckerman, Gregory (2019): *The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution*. New York: Portfolio / Penguin Random House.  
   *Datenübersichten und historische Performance dokumentiert u.a. in:* [Bloomberg Markets / Institutional Investor](https://www.bloomberg.com/news/articles/2019-11-01/jim-simons-how-a-math-genius-conquered-wall-street).
 
 ---
 
-### Kapitel 8: Der größte Feind im Spiegel
+### Kapitel 9: Der größte Feind im Spiegel
 * **Verlustaversion & Psychologie des Risikos (Prospect Theory):**  
   Kahneman, Daniel; Tversky, Amos (1979): *„Prospect Theory: An Analysis of Decision under Risk“*. In: **Econometrica**, Vol. 47, No. 2, S. 263–291.  
   Kahneman, Daniel (2011): *Thinking, Fast and Slow*. Farrar, Straus and Giroux (Deutsche Ausgabe: *Schnelles Denken, langsames Denken*, Siedler Verlag).
 
 ---
 
-### Kapitel 10: Das Gesetz der abnehmenden Marge
+### Kapitel 11: Das Gesetz der abnehmenden Marge
 * **Finanzmathematisches No-Arbitrage-Prinzip & Preiskonvergenz:**  
   Ross, Stephen A. (1976): *„The Arbitrage Theory of Capital Asset Pricing“*. In: **Journal of Economic Theory**, Vol. 13, Issue 3, S. 341–360.  
   *Standardlehrbuch zur Preiskonvergenz:* Cochrane, John H. (2005): *Asset Pricing: Revised Edition*. Princeton: Princeton University Press.
 
 ---
 
-[📖 Zurück zum Inhaltsverzeichnis](00_inhaltsverzeichnis.md)
+[⬅️ Zurück](14_epilog_das_offene_tor.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md)

@@ -1,7 +1,7 @@
-# Kapitel 9: Die unsichtbare Infrastruktur
+# Kapitel 10: Die unsichtbare Infrastruktur
 ### *Wenn Technik lautlos im Hintergrund dient*
 
-[⬅️ Zurück zu Kapitel 8](09_kapitel_8_der_groesste_feind_im_spiegel_gier.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 10](11_kapitel_10_das_gesetz_der_abnehmenden_marge.md)
+[⬅️ Zurück](10_kapitel_9_der_groesste_feind_im_spiegel_gier.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md)
 
 ---
 
@@ -48,4 +48,4 @@ Die eigentliche Revolution des 21. Jahrhunderts besteht darin, dass die gesamte 
 
 ---
 
-[⬅️ Zurück zu Kapitel 8](09_kapitel_8_der_groesste_feind_im_spiegel_gier.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 10: Das Gesetz der abnehmenden Marge](11_kapitel_10_das_gesetz_der_abnehmenden_marge.md)
+[⬅️ Zurück](10_kapitel_9_der_groesste_feind_im_spiegel_gier.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Das Gesetz der abnehmenden Marge](12_kapitel_11_das_gesetz_der_abnehmenden_marge.md)

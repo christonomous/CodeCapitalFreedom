@@ -1,7 +1,7 @@
-# Kapitel 10: Das Gesetz der abnehmenden Marge
+# Kapitel 11: Das Gesetz der abnehmenden Marge
 ### *Der mathematische Friedensvertrag*
 
-[⬅️ Zurück zu Kapitel 9](10_kapitel_9_die_unsichtbare_infrastruktur.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 11](12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md)
+[⬅️ Zurück](11_kapitel_10_die_unsichtbare_infrastruktur.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](13_kapitel_12_eine_welt_jenseits_der_erpressbarkeit.md)
 
 ---
 
@@ -80,4 +80,4 @@ Und genau dieses Schweizer Uhrwerk schüttet Tag für Tag, Monat für Monat eine
 
 ---
 
-[⬅️ Zurück zu Kapitel 9](10_kapitel_9_die_unsichtbare_infrastruktur.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 11: Eine Welt jenseits der Erpressbarkeit](12_kapitel_11_eine_welt_jenseits_der_erpressbarkeit.md)
+[⬅️ Zurück](11_kapitel_10_die_unsichtbare_infrastruktur.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Eine Welt jenseits der Erpressbarkeit](13_kapitel_12_eine_welt_jenseits_der_erpressbarkeit.md)

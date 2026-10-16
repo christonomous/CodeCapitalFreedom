@@ -1,7 +1,7 @@
-# Kapitel 7: Waffengleichheit für jedermann
+# Kapitel 8: Waffengleichheit für jedermann
 ### *Wie Algorithmen das Spielfeld nivellieren*
 
-[⬅️ Zurück zu Kapitel 6](07_kapitel_6_die_stimmen_des_kapitals.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 8](09_kapitel_8_der_groesste_feind_im_spiegel_gier.md)
+[⬅️ Zurück](08_kapitel_7_die_stimmen_des_kapitals.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter](10_kapitel_9_der_groesste_feind_im_spiegel_gier.md)
 
 ---
 
@@ -62,4 +62,4 @@ Doch dieses Werkzeug hat eine gefährliche Schwachstelle. Und diese Schwachstell
 
 ---
 
-[⬅️ Zurück zu Kapitel 6](07_kapitel_6_die_stimmen_des_kapitals.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter zu Kapitel 8: Der größte Feind im Spiegel](09_kapitel_8_der_groesste_feind_im_spiegel_gier.md)
+[⬅️ Zurück](08_kapitel_7_die_stimmen_des_kapitals.md) | [📖 Inhaltsverzeichnis](00_inhaltsverzeichnis.md) | [➡️ Weiter: Der größte Feind im Spiegel: Gier](10_kapitel_9_der_groesste_feind_im_spiegel_gier.md)
